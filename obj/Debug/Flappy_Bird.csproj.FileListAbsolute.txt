@@ -1,0 +1,10 @@
+C:\Users\brdsl\Desktop\.NET Training\Flappy_Bird\bin\Debug\Flappy_Bird.exe.config
+C:\Users\brdsl\Desktop\.NET Training\Flappy_Bird\bin\Debug\Flappy_Bird.exe
+C:\Users\brdsl\Desktop\.NET Training\Flappy_Bird\bin\Debug\Flappy_Bird.pdb
+C:\Users\brdsl\Desktop\.NET Training\Flappy_Bird\obj\Debug\Flappy_Bird.csprojAssemblyReference.cache
+C:\Users\brdsl\Desktop\.NET Training\Flappy_Bird\obj\Debug\Flappy_Bird.Background.resources
+C:\Users\brdsl\Desktop\.NET Training\Flappy_Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\brdsl\Desktop\.NET Training\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.GenerateResource.cache
+C:\Users\brdsl\Desktop\.NET Training\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.CoreCompileInputs.cache
+C:\Users\brdsl\Desktop\.NET Training\Flappy_Bird\obj\Debug\Flappy_Bird.exe
+C:\Users\brdsl\Desktop\.NET Training\Flappy_Bird\obj\Debug\Flappy_Bird.pdb
