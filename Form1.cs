@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Media;
 
 namespace Flappy_Bird
 {
@@ -44,8 +43,6 @@ namespace Flappy_Bird
                 flappyBird.Bounds.IntersectsWith(pipeTop.Bounds) || 
                     flappyBird.Bounds.IntersectsWith(Ground.Bounds) || flappyBird.Top < -25)
             {
-                SoundPlayer soundDie = new SoundPlayer(@"C:\Users\brdsl\Desktop\.NET Training\Flappy_Bird\Mobile - Flappy Bird - Everything/sfx_die.wav");
-                soundDie.Play();
                 endGame();
             }
 
@@ -67,8 +64,6 @@ namespace Flappy_Bird
         {
             if (e.KeyCode == Keys.Space)
             {
-                SoundPlayer soundSwoosh = new SoundPlayer(@"C:\Users\brdsl\Desktop\.NET Training\Flappy_Bird\Mobile - Flappy Bird - Everything/sfx_swooshing.wav");
-                soundSwoosh.Play();
                 gravity = 7;
             }
 
